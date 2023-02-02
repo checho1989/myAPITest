@@ -7,7 +7,10 @@
       "string": ["DKK5kadJg2brSLm1PGipT9P5J1SgCeKZ6W9MhhhgK243"]
     },
     "price": {
-        "number": 2000000000
+        "int": {
+          "min": 2000000000,
+          "max": 2000000000  
+        } 
     }
   }
 }
