@@ -1,5 +1,8 @@
 {
   "Price": {
+    "_": {
+      "items": 1
+    },
     "metadataAddress": {
       "string": ["DKK5kadJg2brSLm1PGipT9P5J1SgCeKZ6W9MhhhgK243"]
     },
