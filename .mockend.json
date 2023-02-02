@@ -1,7 +1,13 @@
 {
   "Price": {
-     "metadataAddress": "DKK5kadJg2brSLm1PGipT9P5J1SgCeKZ6W9MhhhgK243",
-     "price": 2000000000
+    "_": {
+      "items": 1
+    },
+    "metadataAddress": {
+      "string": ["DKK5kadJg2brSLm1PGipT9P5J1SgCeKZ6W9MhhhgK243"]
+    },
+    "price": {
+        "number": 2000000000
+    }
   }
- 
 }
